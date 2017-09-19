@@ -1,6 +1,6 @@
 body{
     text-align: center;
-  
+  background-color: paleturquoise;
 }
 
 header{
@@ -56,4 +56,26 @@ max-height: 20rem;
 
 .picture{
     margin-bottom: 3rem;
+}
+
+#first{
+    flex: 1 1 40%
+}
+#second{
+    flex: 1 1 30%
+}
+#third{
+    flex:1 1 30%;
+}
+#fourth{
+    flex:1 1 25%;
+}
+#fifth{
+    flex: 1 1 25%;
+}
+#sixth{
+    flex: 1 1 30%;
+}
+#seventh{
+    flex: 1 1 20%;
 }
