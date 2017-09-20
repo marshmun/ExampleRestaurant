@@ -1,0 +1,21 @@
+.mainMedia{
+    border: solid 1px black;
+    margin: 2rem;
+    padding:2rem;
+    background-color:#e6e2d3;
+    font-size: larger;
+}
+
+.media{
+    padding-right: 12rem;
+}
+.napkins{
+    float:right;
+    height: 7rem;
+    width:11rem;
+}
+
+.mediaLinks{
+    display:flex;
+    flex-direction: column;
+}

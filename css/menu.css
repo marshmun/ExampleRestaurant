@@ -1,0 +1,12 @@
+.menuDiv{
+    margin:0 5rem;
+    border:1px solid black;
+    padding:2rem 3rem;
+    background-color: #e6e2d3;
+    font-size: larger;
+}
+.chefPicture{
+    float:left;
+    height:7rem;
+    width:7rem;
+}
